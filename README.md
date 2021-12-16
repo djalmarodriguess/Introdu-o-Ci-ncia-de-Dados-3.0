@@ -143,15 +143,142 @@ Em Deus nós acreditamos. Todos os outros devem trazer dados.
                                           Willian E. Deming
 ```
 
+# Ciência de dados e Estatística
+
+Não são a mesma coisa, não tem o mesmo objetivo e nem utilizam as mesmas ferramentas, a ciência de dados é a intersecção 
+de outras disciplinas, e a estatística é um pilar fundamental para a ciência de dados, podem a ciência de dados abranger outras áreas.
+
+## Definindo estatística 
+
+Estatística é um conjunto de métodos para analisar dados, tem como objetivo auxiliar na compreensão dos eventos que nos cercam, ajudando assim analisar os 
+dados de forma mais simples, no qual fornece ferramentas e técnicas para a melhor tomada de decisão. 
+Estatística envolve a coleta, classificação, resumo, organização, análise e interpretação dos dados. 
+
+## Três grandes áreas da estatística
+
+- Probabilidade: Estudo da incerteza e aleatoriedade.
+- Estatística descritiva: Utiliza métodos para coleta, organização, apresentação, análise e síntese dos dados obtidos a partir de uma população ou amostra. 
+- Estatística Inferencial: É o processo que estima informações sobre uma população a partir de um resultado observado em uma amostra, por exemplo, dados eleitorais.
 
 
+## Qual a Relação entre ciência de dados e estatística
 
+A estatistica fornece ferramentas e métodos que podem ser utilizados a todo momento em ciencia de dados.
+A ciência de dados utiliza métodos estatísticos para explorar e analisar melhor os dados, buscando padrões em meia a incertezas 
+para a melhor tomada de decisões.
 
+# Machine Learning e MLOps
 
+## Ciência de dados e Machine Learning
 
+Todo projeto de machine learning é um projeto de ciência de dados, entretanto nem todo projeto de ciência de dados precisa de machine learning.
+O uso de aprendizado de máquina vai depender do objetivo do projeto.
 
- 
+## O que é Machine Learning
 
+Machine Learning, ou aprendizado de máquina, é um subcampo da Inteligência Artificial que constrói algoritmos que permitem que os computadores possam 
+aprender a executar tarefas a partir de dados, ao invés de serem programados de forma explícita.
+É um método de análise de dados que automatiza modelos de desenvolvimento analítico. 
+Machine Learning não cria padrão nos dados, mas entende o padrão dos dados e os algoritmos mostram os resultados desse padrão.
 
+## Tipos de Aprendizado
 
+Como machine learning na sua essência é a tentativa de reproduzir a forma de aprendizado do ser humano em máquinas, através de vários tipos.
+O ser humano por exemplo tem vários tipos de formas de aprender, tentativa e erro, aprendizagem supervisionada, etc.
+Para máquinas é a mesma coisa, existem várias estratégias de aprendizagem com conceitos de matemática, estatística e programação.
+
+## Aprendizado Supervisionado
+
+É o tipo mais utilizado por machine learning, o algoritmo de aprendizado supervisionado fazem análise com base em conjunto de exemplos, o trabalho do cientista de dados é 
+entregar essas dados para que a máquina aprenda e se desenvolva, em aprendizado supervisionado a duas categorias:
+- Classificação: Quer prever uma categoria/classe.
+- Regressão: Prevê um valor numérico.
+
+**imagem 6**
+
+A tabela acima demonstra um estudo da categoria de classificação, no qual a partir de dados históricos desejo saber se os pacientes terão ou não diabetes. 
+Com o uso do algoritmo será feito um modelo preditivo para identificar um padrão, retornando valores matemáticos com a conclusão dos algoritmos.
+
+**Processo de aprendizagem supervisionada:**
+**imagem 7**
+
+## Aprendizagem Não-Supervisionada
+
+O aprendizado não supervisionado é usado com dados que não possuem rótulos históricos, ou seja, não temos variáveis de saída para serem estimadas.
+É utilizado as variáveis de entrada, separados em conjuntos e o algoritmo encontra um padrão(se existir um padrão), desse ve encontrar possíveis estruturas neles.
+
+Veja a tabela abaixo, são dados históricos de clientes com três variáveis de entrada, idade, número de compra e valor de cada compra, mas 
+não se tem o quarto valor, então nesses dados é aplicado aprendizado não-supervisionado.
+**imagem 8**
+
+Após aplicado a aprendizagem não supervisionado, temos um modelo preditivo, no qual esse modelo agrupo os dados por similaridade, sendo apenas uma previsão, 
+no qual esse modelo não é 100% de certeza, mas ainda sim são informações importantes, antes essas informações do que nenhuma.
+**imagem 9**
+
+## Aprendizagem por Reforço
+
+Nesse tipo de aprendizado o agente é treinado em um ambiente e toma ações com base em políticas, a cada ação que maximiza o objetivo.
+O agente é recompensado e se errar é penalizado.
+É um tipo de aprendizado muito parecido com tentativa e erro do ser humano.
+**imagem 10**
+
+# Aplicação da Ciência de Dados
+
+## Os 5 Pré-requisitos para aplicar a ciência de dados
+1. Problema de negocio
+2. Dados históricos
+3. Padrão existente nos dados
+4. Capacidade computacional para armazenar e processamento de dados
+5. Profissionais Qualificado
+
+# Ciclo de Vida de Projetos em Ciência de Dados
+
+## Principais caracteristicas de um projeto
+1. Todo projeto é único
+2. tem inicio ou fim definido
+3. É progressivo
+4. Tem limitação de recursos
+5. Tem objetivo claro e viavel
+
+# Projetos de Ciência de Dados
+
+Todo projeto deve começar como objetivo , ou seja, as questões que precisam ser respondidas.
+A definição dos problemas devem ser colocadas da forma mais clara possível, buscamos os dados e trabalhamos com os mesmos.
+
+# Dicas para iniciar projetos de Data Science
+
+- Compreender o problema a ser resolvido
+- Perguntas claras para que o outro lado compreenda de forma objetiva
+- Avaliar e reavaliar o problema e desenhar uma solução
+- Na prática o maior problema é a identificação do problema
+
+```
+A melhor pergunta é aquela que resolve o problema do cliente
+``` 
+## Fases de Projetos da Ciência de Dados
+
+**imagem 11**
+
+## Produtos Gerados
+
+O que deve ser entregue para o cliente?
+Se deseja entregar um bom relatório deve ser feito perguntas de qualidade.
+
+Os produtos gerados em Data Science são:
+- Relatorios 
+- Gráfico e Dashboards
+- Modelos Estatístico/Preditivo
+- Web App
+- Sistema de Recomendação
+
+## Cultura orientada a dados
+
+Hoje em dia muitas ações são tomadas pela experiência, no conhecimento do mercado ou até mesmo no achismo,
+e essa postura terá que ser mudada, implementando uma cultura baseada em dados, ou seja, cultura data-driven.
+
+E para mudar uma cultura empresarial é muito difícil, é um trabalho de longo prazo, é necessário uma liderança forte para que 
+sejam uma empresa com a cultura data-driven.
+
+Para que os projetos de ciencia de dados em  uma empresa deem certo e tragam pontos positivos para a mesma é necessario uma cultura orientada a dados.
+Pois o trabalho do cientista de dados tem que está alinhado com a cultura da empresa.
 
