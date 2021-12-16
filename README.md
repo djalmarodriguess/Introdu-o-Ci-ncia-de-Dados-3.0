@@ -39,7 +39,9 @@ analiticos, de programação e conhecimento de negocios no projeto para entrega 
 decisão.
 
 Área de conhecimento de Data Science:
-**imagem 2**
+
+![image 1](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/4690ef3b1ab9f78f8a6b3ed2084acdc5dc0e068c/Imagem_1.png
+)
 
 ## Dados e Tomada de Decisão
 
@@ -62,8 +64,8 @@ devem ser respondidas quatro questões antes da tomada de decisão.
 
 Feitos isso o trabalho do cientista de dados termina, toda a análise é entregue ao tomador de decisão, no qual será tomada uma ação 
 de acordo com os dados analisados.
-**Imagem 2**
 
+![image 2](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_2.png)
 
 # Ciência de dados e Big Data
 
@@ -86,7 +88,7 @@ A coleta dos dados que são de interesse para a empresa, baseados no problema de
 depois a correlação de áreas distintas, após isso aplicar técnicas e procedimentos de análises, por fim 
 o insight para os tomadores de decisões.
 
-**imagem 3**
+![image 3](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_3.png)
 
 ## O que os dados representam?
 
@@ -111,7 +113,8 @@ não são úteis, não são informáticos, o trabalho do cientista de dados é t
 Datasets são a matéria prima do cientista de dados, os dados podem vir de diversos formatos, áudio, imagem, 
 texto, imagem e texto...podendo vir de um data lake, data store, da internet, mas provavelmente em algum 
 Neste momento será utilizado um dataset no trabalho de cientista de dados, para que sejam aplicadas as habilidades e procedimentos de análise.
-**Imagem 4**
+
+![image 4](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_4.png)
 
 ## E o Big Data?
 
@@ -128,8 +131,7 @@ Big Data é definida por 4v's:
 
 O Big data pode ser compostos por diferentes fontes e diferentes formatos.
 
-**imagem 5**
-
+![image 5](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_5.png)
 
 ## Ciencia de dados e Big Data
 
@@ -159,7 +161,6 @@ Estatística envolve a coleta, classificação, resumo, organização, análise 
 - Probabilidade: Estudo da incerteza e aleatoriedade.
 - Estatística descritiva: Utiliza métodos para coleta, organização, apresentação, análise e síntese dos dados obtidos a partir de uma população ou amostra. 
 - Estatística Inferencial: É o processo que estima informações sobre uma população a partir de um resultado observado em uma amostra, por exemplo, dados eleitorais.
-
 
 ## Qual a Relação entre ciência de dados e estatística
 
@@ -194,13 +195,14 @@ entregar essas dados para que a máquina aprenda e se desenvolva, em aprendizado
 - Classificação: Quer prever uma categoria/classe.
 - Regressão: Prevê um valor numérico.
 
-**imagem 6**
+![image 6](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_6.png)
 
 A tabela acima demonstra um estudo da categoria de classificação, no qual a partir de dados históricos desejo saber se os pacientes terão ou não diabetes. 
 Com o uso do algoritmo será feito um modelo preditivo para identificar um padrão, retornando valores matemáticos com a conclusão dos algoritmos.
 
 **Processo de aprendizagem supervisionada:**
-**imagem 7**
+
+![image 7](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_7.png)
 
 ## Aprendizagem Não-Supervisionada
 
@@ -209,18 +211,21 @@ O aprendizado não supervisionado é usado com dados que não possuem rótulos h
 
 Veja a tabela abaixo, são dados históricos de clientes com três variáveis de entrada, idade, número de compra e valor de cada compra, mas 
 não se tem o quarto valor, então nesses dados é aplicado aprendizado não-supervisionado.
-**imagem 8**
+
+![image 8](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_8.png)
 
 Após aplicado a aprendizagem não supervisionado, temos um modelo preditivo, no qual esse modelo agrupo os dados por similaridade, sendo apenas uma previsão, 
 no qual esse modelo não é 100% de certeza, mas ainda sim são informações importantes, antes essas informações do que nenhuma.
-**imagem 9**
+
+![image 9](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_9.png)
 
 ## Aprendizagem por Reforço
 
 Nesse tipo de aprendizado o agente é treinado em um ambiente e toma ações com base em políticas, a cada ação que maximiza o objetivo.
 O agente é recompensado e se errar é penalizado.
 É um tipo de aprendizado muito parecido com tentativa e erro do ser humano.
-**imagem 10**
+
+![image 10](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_10.png)
 
 # Aplicação da Ciência de Dados
 
@@ -257,7 +262,7 @@ A melhor pergunta é aquela que resolve o problema do cliente
 ``` 
 ## Fases de Projetos da Ciência de Dados
 
-**imagem 11**
+![image 11](https://github.com/djalmarodriguess/Introducao_a_Ciencia_de_Dados_3.0/blob/master/Imagem_11.png)
 
 ## Produtos Gerados
 
