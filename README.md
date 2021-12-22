@@ -287,3 +287,6 @@ sejam uma empresa com a cultura data-driven.
 Para que os projetos de ciencia de dados em  uma empresa deem certo e tragam pontos positivos para a mesma é necessario uma cultura orientada a dados.
 Pois o trabalho do cientista de dados tem que está alinhado com a cultura da empresa.
 
+# Certificado do Curso
+[Clique aqui](https://github.com/djalmarodriguess/Certificados/blob/master/Certificado-Introducao-a-Ciencia-de-Dados-3.0-%20DSA.pdf)
+
