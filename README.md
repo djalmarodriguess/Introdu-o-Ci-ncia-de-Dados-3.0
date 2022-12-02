@@ -240,14 +240,14 @@ O agente é recompensado e se errar é penalizado.
 
 ## Principais caracteristicas de um projeto
 1. Todo projeto é único
-2. tem inicio ou fim definido
+2. Tem inicio ou fim definido
 3. É progressivo
 4. Tem limitação de recursos
 5. Tem objetivo claro e viavel
 
 # Projetos de Ciência de Dados
 
-Todo projeto deve começar como objetivo , ou seja, as questões que precisam ser respondidas.
+Todo projeto deve começar com o objetivo, ou seja, as questões que precisam ser respondidas.
 A definição dos problemas devem ser colocadas da forma mais clara possível, buscamos os dados e trabalhamos com os mesmos.
 
 # Dicas para iniciar projetos de Data Science
